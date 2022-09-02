@@ -1,0 +1,34 @@
+body { 
+    background-color: black;
+
+
+}
+.header { color: #0000ff;
+   border-bottom: solid 3px #32b9cd;
+   bottom: solid 3px green;
+
+}
+.container { 
+    width: 80%;
+    border: solid 3px yellow;
+    margin: auto ;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    width: 50%;
+    border:  solid 3px red;
+    margin: auto;
+
+
+
+}
+h1 { border: solid;
+    color: violet;
+    padding-left: 22px;
+    padding-right: 23px;
+    padding-top: 20px;
+    padding: 9px ;
+
+
+}
